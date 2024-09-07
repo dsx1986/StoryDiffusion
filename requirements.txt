@@ -2,7 +2,7 @@ gradio==4.22.0
 xformers==0.0.20
 torch==2.0.1
 torchvision==0.15.2
-diffusers==0.25.0
+diffusers==0.30.2
 transformers==4.36.2
 huggingface-hub==0.23.0
 spaces==0.19.4
